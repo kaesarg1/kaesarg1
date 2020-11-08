@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**kaesarg1/kaesarg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Beginner developer looking for experience and growing up in a company where I could able to multiply my knowledge and apply all my abilities.
 
 
@@ -13,4 +9,8 @@ Beginner developer looking for experience and growing up in a company where I co
 - 💬 Ask me about </>
 - 📫 How to reach me: cesarfranco.ca
 - ⚡ Fun fact: I'm a metalhead too!!
+<!--
+**kaesarg1/kaesarg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
