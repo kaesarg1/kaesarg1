@@ -3,7 +3,7 @@ Beginner developer looking for experience and growing up in a company where I co
 
 
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently fishining my AEC on Frontend Web Developpement
+- 🌱 I’m currently finishing my AEC on Frontend Web Developpement
 - 👯 I’m looking to collaborate on everything I could
 - 🤔 I’m looking for help with everything you could
 - 💬 Ask me about </>
