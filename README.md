@@ -7,7 +7,7 @@ Beginner developer looking for experience and growing up in a company where I co
 - 👯 I’m looking to collaborate on everything I could
 - 🤔 I’m looking for help with everything you could
 - 💬 Ask me about </>
-- 📫 How to reach me: cesarfranco.ca
+- 📫 How to reach me: http://cesarfranco.ca
 - ⚡ Fun fact: I'm a metalhead too!!
 <!--
 **kaesarg1/kaesarg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
