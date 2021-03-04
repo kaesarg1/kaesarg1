@@ -2,7 +2,7 @@
 Beginner developer looking for experience and growing up in a company where I could able to multiply my knowledge and apply all my abilities.
 
 
-- 🔭 I’m currently working on Angular
+- 🔭 I’m currently working on Angular and Flutter
 - 🌱 I’m currently finishing my AEC on Frontend Web Developpement
 - 👯 I’m looking to collaborate on everything I could
 - 🤔 I’m looking for help with everything you could
